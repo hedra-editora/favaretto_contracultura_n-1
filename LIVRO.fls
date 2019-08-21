@@ -313,8 +313,6 @@ INPUT ./gitrevisioninfo.sty
 INPUT ./gitrevisioninfo.sty
 INPUT /home/editorial/texmf/tex/endnotes.sty
 INPUT /home/editorial/texmf/tex/endnotes.sty
-INPUT /usr/share/texmf-dist/tex/latex/moresize/moresize.sty
-INPUT /usr/share/texmf-dist/tex/latex/moresize/moresize.sty
 INPUT /usr/share/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 INPUT /usr/share/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc
