@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  21 AUG 2019 17:42
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  21 AUG 2019 18:18
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -2050,8 +2050,67 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 
-] [7] [8]) [9] [10])
-[11] 
+] [7] [8] [9] [10] [11]
+Overfull \hbox (23.51634pt too wide) in paragraph at lines 11--15
+[]
+ []
+
+
+Overfull \hbox (72.1883pt too wide) in paragraph at lines 11--15
+[]
+ []
+
+
+Overfull \hbox (72.1883pt too wide) in paragraph at lines 11--15
+[]
+ []
+
+
+Overfull \hbox (71.6987pt too wide) in paragraph at lines 11--15
+[] 
+ []
+
+
+Overfull \hbox (53.51634pt too wide) in paragraph at lines 16--20
+[]
+ []
+
+
+Overfull \hbox (82.71951pt too wide) in paragraph at lines 16--20
+[]
+ []
+
+
+Overfull \hbox (82.71951pt too wide) in paragraph at lines 16--20
+[]
+ []
+
+
+Overfull \hbox (82.22992pt too wide) in paragraph at lines 16--20
+[] 
+ []
+
+
+Overfull \hbox (73.51634pt too wide) in paragraph at lines 21--25
+[]
+ []
+
+
+Overfull \hbox (102.71951pt too wide) in paragraph at lines 21--25
+[]
+ []
+
+
+Overfull \hbox (102.71951pt too wide) in paragraph at lines 21--25
+[]
+ []
+
+
+Overfull \hbox (102.22992pt too wide) in paragraph at lines 21--25
+[] 
+ []
+
+)) [12] 
 AED: lastpage setting LastPage
 \tf@toc=\write6
 
@@ -2059,24 +2118,24 @@ AED: lastpage setting LastPage
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24273 strings out of 494472
+ 24279 strings out of 494472
  100000,794899 words of node,token memory allocated
  1257 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 6 glue, 1 penalty, 40 attribute, 193 glue_spec, 10 
 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:2,2:692,3:40,4:35,5:207,6:2154,7:485,8:45,9:164,10:18,11:277
- 27187 multiletter control sequences out of 65536+600000
- 80 fonts using 14268807 bytes
+   avail lists: 1:2,2:722,3:46,4:35,5:207,6:2154,7:485,8:55,9:164,10:18,11:277
+ 27191 multiletter control sequences out of 65536+600000
+ 82 fonts using 14756999 bytes
  50i,13n,70p,1369b,352s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-Light.otf></usr/share/texmf-dist/fonts
 /opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/open
 type/public/libertine/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/fake r
 eceipt.ttf></home/editorial/texmf/tex/fonts/Cobra_arisca-Regular.otf></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (11 pages, 48808 bytes).
+Output written on LIVRO.pdf (12 pages, 49658 bytes).
 
-PDF statistics: 79 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+PDF statistics: 82 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
