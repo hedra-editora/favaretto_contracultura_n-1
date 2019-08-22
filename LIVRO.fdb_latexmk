@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1566493044 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1566493047
+["lualatex"] 1566496693 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1566496696
   "/etc/texmf/tex/generic/config/language.dat" 1510784374 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/cobra-arisca-regular.luc" 1566421217 11988 6a18becc14be5d4ab2d4b49d6cc0feac ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fake-receipt.luc" 1566421217 36935 118416beeeb8811ce895c8275724ccb5 ""
@@ -227,11 +227,11 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1510784347 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1510784348 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1516130248 1350732 045cf0d50c464bdae2d15bcdf369a573 ""
-  "INPUTS.aux" 1566493046 1889 a60f3af8a7a86d67ff73cdb7383bdd74 ""
+  "INPUTS.aux" 1566496696 1889 a60f3af8a7a86d67ff73cdb7383bdd74 ""
   "INPUTS.tex" 1566420337 60 751ad6e41914c2ef8c0076f29ca9dfa8 ""
-  "LIVRO.aux" 1566493046 511 dba61b8b85f962a3eedc75e5076e98b8 ""
+  "LIVRO.aux" 1566496696 511 dba61b8b85f962a3eedc75e5076e98b8 ""
   "LIVRO.tex" 1566493030 5013 4935e394dd7e43998b967590e2659d64 ""
-  "LIVRO.toc" 1566493046 168 13e5f7ce2cb90d97824936492cf03069 ""
+  "LIVRO.toc" 1566496696 168 13e5f7ce2cb90d97824936492cf03069 ""
   "PRETAS.tex" 1566420337 1189 a948e4753c84d73573f661b978368d5f ""
   "TEXTO.tex" 1566489297 4465 baa91ae46a1d49d18aab74ee048ea720 ""
   "fichatecnica.sty" 1566420337 2117 34af9935afb3f62b0ab8b70d705aace8 ""
@@ -239,11 +239,11 @@
   "frontlayout.sty" 1566420337 1731 5f60f1c14f6d545f21dbeb617a33dfa4 ""
   "gitrevisioninfo.sty" 1566489819 35 0af197c0aa797da669c01f7c129d5d63 ""
   "hedraextra.sty" 1566420337 6390 65a9b8588c7612c4e2512564697fa8c1 ""
-  "hedraoptions.sty" 1566492311 3590 266ebab129eaea54b4633ae9d630ae76 ""
+  "hedraoptions.sty" 1566496688 3589 192e3b92c56e19f0913765909c521bd9 ""
   "tipografia.sty" 1566420337 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
+  "LIVRO.toc"
   "INPUTS.aux"
-  "LIVRO.log"
   "LIVRO.pdf"
   "LIVRO.aux"
-  "LIVRO.toc"
+  "LIVRO.log"

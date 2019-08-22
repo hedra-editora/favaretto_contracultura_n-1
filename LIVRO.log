@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  22 AUG 2019 13:57
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  22 AUG 2019 14:58
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.218 seconds
+luaotfload | main : initialization completed in 0.213 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -384,7 +384,7 @@ Text height and width: 447pt by 253pt
 Spine and edge margins: 28.45273pt and 31.29805pt
 Upper and lower margins: 23.54431pt and 41.60529pt
 Headheight and headsep: 11.38109pt and 0pt
-Footskip: 11.38109pt
+Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 63.30737pt
 Sidecapsep and sidecapwidth: 7pt and 102pt
@@ -2290,7 +2290,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:2,2:1152,3:103,4:35,5:209,6:1584,7:539,8:61,9:249,10:17,11:267
 
  27512 multiletter control sequences out of 65536+600000
- 102 fonts using 16458999 bytes
+ 102 fonts using 16458947 bytes
  50i,14n,69p,1369b,411s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></home
 /editorial/texmf/tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/f
