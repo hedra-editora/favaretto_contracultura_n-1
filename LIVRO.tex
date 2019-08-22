@@ -86,7 +86,7 @@ ItalicFont = Formular-Light.otf]
 
 \usepackage{etoolbox}
 \makeatletter
-\patchcmd{\@footnotetext}{\footnotesize}{\footnotesize\sffamily}{}{}
+\patchcmd{\@footnotetext}{\footnotesize}{\scriptsize\sffamily}{}{}
 \makeatother
 
 %--------------------------------------------ALTERAR FONTE DA NUMERAÇÃO DE PÁGINA
@@ -94,7 +94,7 @@ ItalicFont = Formular-Light.otf]
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyfoot[CE,CO]{\Formular \textit \thepage}
+\fancyfoot[CE,CO]{\Formular \footnotesize \textit \thepage}
 \renewcommand{\headrulewidth}{0pt}
 
 %--------------------------------------------ALTERAR DISTÃNCIA ENTRE TÍTULO DO SUMÁRIO E CAPÍTULOS

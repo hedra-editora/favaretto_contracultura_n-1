@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  22 AUG 2019 13:23
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  22 AUG 2019 13:57
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.212 seconds
+luaotfload | main : initialization completed in 0.218 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -380,11 +380,11 @@ Class memoir Warning: \marginparsep is zero or negative on input line 165.
 Stock height and width: 794.96999pt by 614.295pt
 Top and edge trims: 56.9055pt and 150.65735pt
 Page height and width: 512.1496pt by 312.9803pt
-Text height and width: 403.5pt by 253pt
-Spine and edge margins: 31.298pt and 28.45277pt
-Upper and lower margins: 36.89575pt and 71.75385pt
-Headheight and headsep: 19.91692pt and 0pt
-Footskip: 19.91692pt
+Text height and width: 447pt by 253pt
+Spine and edge margins: 28.45273pt and 31.29805pt
+Upper and lower margins: 23.54431pt and 41.60529pt
+Headheight and headsep: 11.38109pt and 0pt
+Footskip: 11.38109pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 63.30737pt
 Sidecapsep and sidecapwidth: 7pt and 102pt
@@ -2074,7 +2074,7 @@ Overfull \hbox (109.18666pt too wide) in paragraph at lines 179--179
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2]
+]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fakereceipt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2087,24 +2087,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
-) [3
+) [2
 
-] [4] (./PRETAS.tex
+] [3] (./PRETAS.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular-Regular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-[5
+[4
 
-] [6] (./LIVRO.toc) [7]
+] (./LIVRO.toc) [5]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./TEXTO.tex [8
+ (./INPUTS.tex (./TEXTO.tex [6
 
 
 
-] [9] [10] [11] [12]
-[13]
+] [7] [8] [9] [10] [11]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -2115,7 +2114,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular-Light' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [14] [15]
+
+[12]
 Overfull \hbox (68.4539pt too wide) in paragraph at lines 30--34
 []
  []
@@ -2235,7 +2235,7 @@ Overfull \hbox (214.6987pt too wide) in paragraph at lines 55--59
 [] 
  []
 
-[16]
+
 Overfull \hbox (103.4539pt too wide) in paragraph at lines 60--64
 []
  []
@@ -2270,7 +2270,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
-)) [17] 
+)) [13] 
 AED: lastpage setting LastPage
 \tf@toc=\write6
 
@@ -2282,23 +2282,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24653 strings out of 494483
+ 24651 strings out of 494483
  195334,794899 words of node,token memory allocated
- 147906 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 8 glue, 1 penalty, 23583 glyph, 2180 attribute, 194
- glue_spec, 436 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:1,2:852,3:81,4:30,5:210,6:445,7:449,8:56,9:220,10:17,11:235
+ 145392 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 8 glue, 1 penalty, 23328 glyph, 1770 attribute, 194
+ glue_spec, 354 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:2,2:1152,3:103,4:35,5:209,6:1584,7:539,8:61,9:249,10:17,11:267
+
  27512 multiletter control sequences out of 65536+600000
- 102 fonts using 16128295 bytes
- 50i,14n,69p,1369b,409s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 102 fonts using 16458999 bytes
+ 50i,14n,69p,1369b,411s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></home
 /editorial/texmf/tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/f
 ake receipt.ttf></home/editorial/texmf/tex/fonts/Cobra_arisca-Regular.otf></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (17 pages, 52096 bytes).
+Output written on LIVRO.pdf (13 pages, 49213 bytes).
 
-PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+PDF statistics: 78 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
