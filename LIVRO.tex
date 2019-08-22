@@ -53,11 +53,12 @@
 %\fancyhf{}
 %\fancyhead[R]{\thepage}
 %\renewcommand{\headrulewidth}{0pt}}
-%\usepackage[12pt]{moresize}
+
+%--------------------------------------------PERMITIR FONTES MAIORES (HUGE)
 
 \usepackage{anyfontsize}
 
-
+%--------------------------------------------TIRAR TRAÇO DIVISOR DA FOOTNOTE
 
 \usepackage{footmisc}
 
@@ -67,6 +68,8 @@
 %\renewcommand{\headrulewidth}{0pt}
 %\renewcommand{\footrulewidth}{0pt}}
 
+%--------------------------------------------DEFININDO FONTES A SEREM USADAS NO LIVRO
+
 \usepackage{fontspec}
 
 %\usepackage{Formular}
@@ -75,6 +78,24 @@ BoldFont = Formular-Bold.otf,
 ItalicFont = Formular-Light.otf]
 \newfontfamily\Cobraarisca{Cobra arisca-Regular}
 \newfontfamily\fakereceipt{fake receipt}
+
+%--------------------------------------------ALTERAR FONTE DA NOTA DE RODAPÉ
+
+\setsansfont{Formular-Light}
+
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\@footnotetext}{\footnotesize}{\footnotesize\sffamily}{}{}
+\makeatother
+
+%--------------------------------------------ALTERAR FONTE DA NUMERAÇÃO DE PÁGINA
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[CE,CO]{\Formular \textit \thepage}
+\renewcommand{\headrulewidth}{0pt}
 
 %--------------------------------------------ALTERAR DISTÃNCIA ENTRE TÍTULO DO SUMÁRIO E CAPÍTULOS
 %\addtocontents{toc}{\vskip-15pt}
@@ -99,9 +120,6 @@ ItalicFont = Formular-Light.otf]
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{-2} 
 %\linespread{1.08}
-\usepackage{commands}
-
-\usepackage{setspace}
 
 \makeatletter
 \newenvironment{Parskip}{%
