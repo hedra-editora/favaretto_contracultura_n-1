@@ -108,6 +108,21 @@ ItalicFont = Formular-Light.otf]
     \addtocounter{page}{0}%
     \newpage}
 
+
+\newenvironment{changemargin}[2]{%
+\begin{list}{}{%
+\setlength{\topsep}{0pt}%
+\setlength{\leftmargin}{#1}%
+\setlength{\rightmargin}{#2}%
+\setlength{\listparindent}{\parindent}%
+\setlength{\itemindent}{\parindent}%
+\setlength{\parsep}{\parskip}%
+}%
+\item[]}{\end{list}}
+
+
+
+
 %\usepackage{imakeidx} 
 %\makeindex[program=xindy, options=-C utf8 -L portuguese]
 %\newcommand\gobbleone[1]{}
