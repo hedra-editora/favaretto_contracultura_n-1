@@ -122,6 +122,20 @@ ItalicFont = Formular-Light.otf]
 
 
 
+\usepackage{changepage}
+\usepackage{placeins}
+\usepackage{float}
+\usepackage{floatpag}
+\usepackage{rotating}
+%\usepackage{afterpage}
+\usepackage{paracol}
+\setlength{\columnsep}{0.8cm}
+
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
 
 %\usepackage{imakeidx} 
 %\makeindex[program=xindy, options=-C utf8 -L portuguese]
