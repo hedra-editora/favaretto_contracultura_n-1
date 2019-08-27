@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  26 AUG 2019 17:59
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  27 AUG 2019 18:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.259 seconds
+luaotfload | main : initialization completed in 0.273 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2188,20 +2188,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
 [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52]
 [53] [54]
-Underfull \hbox (badness 10000) in paragraph at lines 1110--1110
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1109
 []\TU/Formular-Light(0)/m/it/9 34. []A re-vista Arte em Re-vista: no. 5 (São P
 aulo:
  []
 
 [55] [56] [57] [58] [59] [60]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 1228.
+(Font)              <17.28> on input line 1227.
 
 
 Class memoir Warning: The material used in the headers is too large
 (14.49998pt) for the given head height (11.38109pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 1258.
+(in both cases you will find help in the memoir manual). on input line 1257.
 
 
 Overfull \vbox (3.1189pt too high) has occurred while \output is active []
@@ -2218,157 +2218,157 @@ Overfull \vbox (3.1189pt too high) has occurred while \output is active []
 
 ] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
 [94] [95] [96] [97] [98] [99]
-Overfull \hbox (68.4539pt too wide) in paragraph at lines 2007--2011
+Overfull \hbox (68.4539pt too wide) in paragraph at lines 2006--2010
 []
  []
 
 
-Overfull \hbox (78.1883pt too wide) in paragraph at lines 2007--2011
+Overfull \hbox (78.1883pt too wide) in paragraph at lines 2006--2010
 []
  []
 
 
-Overfull \hbox (78.1883pt too wide) in paragraph at lines 2007--2011
+Overfull \hbox (78.1883pt too wide) in paragraph at lines 2006--2010
 []
  []
 
 
-Overfull \hbox (77.6987pt too wide) in paragraph at lines 2007--2011
+Overfull \hbox (77.6987pt too wide) in paragraph at lines 2006--2010
 [] 
  []
 
 
-Overfull \hbox (203.4539pt too wide) in paragraph at lines 2012--2016
+Overfull \hbox (203.4539pt too wide) in paragraph at lines 2011--2015
 []
  []
 
 
-Overfull \hbox (213.1883pt too wide) in paragraph at lines 2012--2016
+Overfull \hbox (213.1883pt too wide) in paragraph at lines 2011--2015
 []
  []
 
 
-Overfull \hbox (213.1883pt too wide) in paragraph at lines 2012--2016
+Overfull \hbox (213.1883pt too wide) in paragraph at lines 2011--2015
 []
  []
 
 
-Overfull \hbox (212.6987pt too wide) in paragraph at lines 2012--2016
+Overfull \hbox (212.6987pt too wide) in paragraph at lines 2011--2015
 [] 
  []
 
 
-Overfull \hbox (103.4539pt too wide) in paragraph at lines 2017--2021
+Overfull \hbox (103.4539pt too wide) in paragraph at lines 2016--2020
 []
  []
 
 
-Overfull \hbox (113.1883pt too wide) in paragraph at lines 2017--2021
+Overfull \hbox (113.1883pt too wide) in paragraph at lines 2016--2020
 []
  []
 
 
-Overfull \hbox (113.1883pt too wide) in paragraph at lines 2017--2021
+Overfull \hbox (113.1883pt too wide) in paragraph at lines 2016--2020
 []
  []
 
 
-Overfull \hbox (112.6987pt too wide) in paragraph at lines 2017--2021
+Overfull \hbox (112.6987pt too wide) in paragraph at lines 2016--2020
 [] 
  []
 
 
-Overfull \hbox (83.4539pt too wide) in paragraph at lines 2022--2026
+Overfull \hbox (83.4539pt too wide) in paragraph at lines 2021--2025
 []
  []
 
 
-Overfull \hbox (93.1883pt too wide) in paragraph at lines 2022--2026
+Overfull \hbox (93.1883pt too wide) in paragraph at lines 2021--2025
 []
  []
 
 
-Overfull \hbox (93.1883pt too wide) in paragraph at lines 2022--2026
+Overfull \hbox (93.1883pt too wide) in paragraph at lines 2021--2025
 []
  []
 
 
-Overfull \hbox (92.6987pt too wide) in paragraph at lines 2022--2026
+Overfull \hbox (92.6987pt too wide) in paragraph at lines 2021--2025
 [] 
  []
 
 
-Overfull \hbox (63.4539pt too wide) in paragraph at lines 2027--2031
+Overfull \hbox (63.4539pt too wide) in paragraph at lines 2026--2030
 []
  []
 
 
-Overfull \hbox (73.1883pt too wide) in paragraph at lines 2027--2031
+Overfull \hbox (73.1883pt too wide) in paragraph at lines 2026--2030
 []
  []
 
 
-Overfull \hbox (73.1883pt too wide) in paragraph at lines 2027--2031
+Overfull \hbox (73.1883pt too wide) in paragraph at lines 2026--2030
 []
  []
 
 
-Overfull \hbox (72.6987pt too wide) in paragraph at lines 2027--2031
+Overfull \hbox (72.6987pt too wide) in paragraph at lines 2026--2030
 [] 
  []
 
 
-Overfull \hbox (205.4539pt too wide) in paragraph at lines 2032--2036
+Overfull \hbox (205.4539pt too wide) in paragraph at lines 2031--2035
 []
  []
 
 
-Overfull \hbox (215.1883pt too wide) in paragraph at lines 2032--2036
+Overfull \hbox (215.1883pt too wide) in paragraph at lines 2031--2035
 []
  []
 
 
-Overfull \hbox (215.1883pt too wide) in paragraph at lines 2032--2036
+Overfull \hbox (215.1883pt too wide) in paragraph at lines 2031--2035
 []
  []
 
 
-Overfull \hbox (214.6987pt too wide) in paragraph at lines 2032--2036
+Overfull \hbox (214.6987pt too wide) in paragraph at lines 2031--2035
 [] 
  []
 
 
-Overfull \hbox (103.4539pt too wide) in paragraph at lines 2037--2041
+Overfull \hbox (103.4539pt too wide) in paragraph at lines 2036--2040
 []
  []
 
 
-Overfull \hbox (113.1883pt too wide) in paragraph at lines 2037--2041
+Overfull \hbox (113.1883pt too wide) in paragraph at lines 2036--2040
 []
  []
 
 
-Overfull \hbox (113.1883pt too wide) in paragraph at lines 2037--2041
+Overfull \hbox (113.1883pt too wide) in paragraph at lines 2036--2040
 []
  []
 
 
-Overfull \hbox (112.6987pt too wide) in paragraph at lines 2037--2041
+Overfull \hbox (112.6987pt too wide) in paragraph at lines 2036--2040
 [] 
  []
 
 
-Overfull \hbox (83.4539pt too wide) in paragraph at lines 2042--2045
+Overfull \hbox (83.4539pt too wide) in paragraph at lines 2041--2044
 []
  []
 
 
-Overfull \hbox (88.32109pt too wide) in paragraph at lines 2042--2045
+Overfull \hbox (88.32109pt too wide) in paragraph at lines 2041--2044
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2042--2045
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2044
 
  []
 
@@ -2393,11 +2393,11 @@ Here is how much of LuaTeX's memory you used:
  2270 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 65 glue, 1 penalty, 276 attribute, 195 glue_spec, 6
 9 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:2,2:1178,3:106,4:64,5:405,6:4201,7:1404,8:61,9:251,10:23,11:62
+   avail lists: 1:2,2:1178,3:106,4:63,5:402,6:4201,7:1404,8:61,9:251,10:23,11:62
 4
  28016 multiletter control sequences out of 65536+600000
- 118 fonts using 18853391 bytes
- 50i,14n,70p,1369b,480s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 118 fonts using 18853495 bytes
+ 50i,14n,70p,1369b,482s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf></us
 r/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/sha
 re/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/te
@@ -2405,7 +2405,7 @@ xmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></home/editorial/tex
 mf/tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/fake receipt.tt
 f></home/editorial/texmf/tex/fonts/Cobra_arisca-Regular.otf></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (100 pages, 273543 bytes).
+Output written on LIVRO.pdf (100 pages, 273318 bytes).
 
 PDF statistics: 370 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams
