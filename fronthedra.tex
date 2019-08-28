@@ -25,8 +25,16 @@
 
 %% Créditos ------------------------------------------------------
 \raggedright
+
+%{\Formular{\normalsize{N-1 edições \hspace{4.2cm} Coleção
+%
+%\vspace*{-5mm}
+%
+%\& Hedra \hspace{5cm} Lampejos}}}
+%\vspace{11.25mm}
+%
 %\linha{copyright}{\copyrightlivro}
-%\linhalayout{edição brasileira©}{Hedra \ifdef{\ano}{\ano}{\the\year}}
+%\linhalayout{edição brasileira©}{Hedra \& N-1 \ifdef{\ano}{\ano}{\the\year}}
 %\linha{tradução©}{\copyrighttraducao}
 %\linha{organização©}{\copyrightorganizacao}
 %\linha{prefácio©}{\copyrightintroducao}
@@ -34,6 +42,7 @@
 %\linha{título original}{\titulooriginal}
 %\linha{edição consultada}{\edicaoconsultada}
 %\linha{primeira edição}{\primeiraedicao}
+%\linhalayout{Projeto da coleção}{Lucas Kröeff}
 %\linha{agradecimentos}{\agradecimentos}
 %\linha{indicação}{\indicacao}\smallskip
 %\linha{edição}{\edicao}
@@ -46,8 +55,21 @@
 %\linha{imagem da capa}{\imagemcapa}\smallskip
 %\linha{ISBN}{\ISBN}\smallskip
 %\begingroup\tiny
-%\ifdef{\conselho}{\conselho}{\relax}
+%%\ifdef{\conselho}{\conselho}{\relax}
 %\par\endgroup\bigskip
+%
+%\begingroup \tiny
+%
+%\textit{Grafia atualizada segundo o Acordo Ortográfico da Língua\\
+%Portuguesa de 1990, em vigor no Brasil desde 2009.}\\
+%
+%
+%\vfill\textit{Direitos reservados em l\'ingua\\ portuguesa somente para o Brasil}\\\medskip
+%%
+%\textsc{editora hedra ltda.}\\
+%R.~Fradique Coutinho, 1.139 (subsolo)\\
+%05416-011, São Paulo-\textsc{sp}, Brasil\\
+
 {\scriptsize\fakereceipt{
 A CONTRACULTURA,\\
 ENTRE A CURTIÇÃO\\
@@ -97,12 +119,7 @@ RUA FRADIQUE COUTINHO, 1139\\
 
 %% Front ---------------------------------------------------------
 % Titulo
-{\fakereceipt{\normalsize{N-1 edições \hspace{2.7cm} coleção
 
-\vspace*{-5mm}
-
-\& hedra \hspace{4cm} Lampejos}}}
-\vspace{11.25mm}
 
 %{\LARGE{\autor} \par}%\vspace{1.5ex}}
 %\vspace{6cm} %9.3cm
@@ -113,7 +130,7 @@ RUA FRADIQUE COUTINHO, 1139\\
 %{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{2}ª edição} \par}
 %logos
 \vfill
-\normalsize
+%\normalsize
 %\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{\logo}\hfill\logoum{}\\ São Paulo\_\the\year}}{\logoum\break{} São Paulo\_\the\year}
 %\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
 \par\clearpage\endgroup
