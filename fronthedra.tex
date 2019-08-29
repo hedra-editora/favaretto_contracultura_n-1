@@ -26,13 +26,13 @@
 %% Créditos ------------------------------------------------------
 \raggedright
 
-{\Formular{\normalsize{N-1 edições \hspace{4.6cm} Coleção
+%{\Formular{\normalsize{N-1 edições \hspace{4.6cm} Coleção
 %
 %\vspace*{-5mm}
 %
-\& Hedra \hspace{5cm} Lampejos}}}
+%\& Hedra \hspace{5cm} Lampejos}}}
 
-\bigskip
+%\bigskip
 
 \linha{copyright}{\copyrightlivro}
 \linhalayout{edição brasileira©}{Hedra \& n-1 \ifdef{\ano}{\ano}{\the\year}}
@@ -117,10 +117,19 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 
 %RUA FRADIQUE COUTINHO, 1139\\
 %05416-011 SÃO PAULO, SP BRASIL
-
 %}}
+\pagebreak
 
+%\vspace*{-80pt}
+\begin{changemargin}{-55pt}{-60pt}
+{\large\Formular{
 
+\mbox{\textbf{Celso Favaretto} \hspace{0.4cm}\textbf{Celso Favaretto} \hspace{0.4cm}\textbf{Celso Favaretto}}\vspace{0.5pt}
+\mbox{A contracultura, \hspace{0.5cm}A contracultura, \hspace{0.5cm}A contracultura,}\vspace{0.5pt}
+\mbox{entre a curtição \hspace{0.5cm}entre a curtição \hspace{0.5cm}entre a curtição}\vspace{0.5pt}
+\mbox{e o experimental \hspace{0.34cm}e o experimental \hspace{0.34cm}e o experimental}
+}}
+\end{changemargin}
 %% Front ---------------------------------------------------------
 % Titulo
 
@@ -140,6 +149,7 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 \par\clearpage\endgroup
 % Resumo -------------------------------------------------------
 \begingroup \footnotesize \parindent0pt \parskip 5pt \thispagestyle{empty} \vspace{1cm}%\textheight}\mbox{} \vfill
+\movetooddpage
 \baselineskip=.92\baselineskip
 \IfFileExists{PRETAS.tex}{\input{PRETAS}}{% 
 \ifdef{\resumo}{\resumo\par}{}
