@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  4 SEP 2019 18:55
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  4 SEP 2019 19:05
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.231 seconds
+luaotfload | main : initialization completed in 0.247 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2040,51 +2040,51 @@ Underfull \hbox (badness 1112) in paragraph at lines 171--180
 
 [14]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 209.
+(Font)              <10.95> on input line 211.
  [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
 [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
 [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
 [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
 [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
+[89] [90] [91] [92] [93] [94] [95] [96]
 
 LaTeX Font Warning: Font shape `TU/Formular-Light(0)/m/it' undefined
-(Font)              using `TU/Formular-Light(0)/m/n' instead on input line 1908.
+(Font)              using `TU/Formular-Light(0)/m/n' instead on input line 1914.
 
 
-[99] [100] [101] [102] [103] [104] [105]
+[97] [98] [99] [100] [101] [102] [103]
 warning  (file ./imgs/img1.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img1.pdf, id=338, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img1.pdf, id=332, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img1.pdf Graphic file (type pdf)
 <use ./imgs/img1.pdf>
-Package luatex.def Info: ./imgs/img1.pdf  used on input line 2052. on input line
- 2052.
+Package luatex.def Info: ./imgs/img1.pdf  used on input line 2058. on input line
+ 2058.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2052.
+2058.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2052--2054
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2058--2060
  [] 
  []
 
-[106
+[104
 
 ]
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[107<./imgs/img1.pdf>] [108]
+[105<./imgs/img1.pdf>] [106]
 warning  (file ./imgs/img2.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img2.pdf, id=355, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img2.pdf, id=349, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img2.pdf Graphic file (type pdf)
 <use ./imgs/img2.pdf>
-Package luatex.def Info: ./imgs/img2.pdf  used on input line 2073. on input line
- 2073.
+Package luatex.def Info: ./imgs/img2.pdf  used on input line 2079. on input line
+ 2079.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2073.
+2079.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2073--2075
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2079--2081
  [] 
  []
 
@@ -2092,18 +2092,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2073--2075
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[109<./imgs/img2.pdf>] [110]
+[107<./imgs/img2.pdf>] [108]
 warning  (file ./imgs/img3.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img3.pdf, id=369, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img3.pdf, id=363, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img3.pdf Graphic file (type pdf)
 <use ./imgs/img3.pdf>
-Package luatex.def Info: ./imgs/img3.pdf  used on input line 2094. on input line
- 2094.
+Package luatex.def Info: ./imgs/img3.pdf  used on input line 2100. on input line
+ 2100.
 Package luatex.def Info: Requested size: 315.82558pt x 516.82135pt on input line
- 2094.
+ 2100.
 
-Overfull \hbox (32.38947pt too wide) in paragraph at lines 2093--2096
+Overfull \hbox (32.38947pt too wide) in paragraph at lines 2099--2102
  |  [] 
  []
 
@@ -2111,18 +2111,18 @@ Overfull \hbox (32.38947pt too wide) in paragraph at lines 2093--2096
 Overfull \vbox (57.3598pt too high) has occurred while \output is active []
 
 
-[111<./imgs/img3.pdf>] [112]
+[109<./imgs/img3.pdf>] [110]
 warning  (file ./imgs/img4.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img4.pdf, id=384, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img4.pdf, id=377, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img4.pdf Graphic file (type pdf)
 <use ./imgs/img4.pdf>
-Package luatex.def Info: ./imgs/img4.pdf  used on input line 2115. on input line
- 2115.
+Package luatex.def Info: ./imgs/img4.pdf  used on input line 2121. on input line
+ 2121.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2115.
+2121.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2115--2117
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2121--2123
  [] 
  []
 
@@ -2130,18 +2130,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2115--2117
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[113<./imgs/img4.pdf>] [114]
+[111<./imgs/img4.pdf>] [112]
 warning  (file ./imgs/img5.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img5.pdf, id=398, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img5.pdf, id=392, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img5.pdf Graphic file (type pdf)
 <use ./imgs/img5.pdf>
-Package luatex.def Info: ./imgs/img5.pdf  used on input line 2136. on input line
- 2136.
+Package luatex.def Info: ./imgs/img5.pdf  used on input line 2142. on input line
+ 2142.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2136.
+2142.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2136--2138
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2142--2144
  [] 
  []
 
@@ -2149,18 +2149,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2136--2138
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[115<./imgs/img5.pdf>] [116]
+[113<./imgs/img5.pdf>] [114]
 warning  (file ./imgs/img6.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img6.pdf, id=420, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img6.pdf, id=414, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img6.pdf Graphic file (type pdf)
 <use ./imgs/img6.pdf>
-Package luatex.def Info: ./imgs/img6.pdf  used on input line 2157. on input line
- 2157.
+Package luatex.def Info: ./imgs/img6.pdf  used on input line 2163. on input line
+ 2163.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2157.
+2163.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2157--2159
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2163--2165
  [] 
  []
 
@@ -2168,18 +2168,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2157--2159
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[117<./imgs/img6.pdf>] [118]
+[115<./imgs/img6.pdf>] [116]
 warning  (file ./imgs/img7.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img7.pdf, id=434, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img7.pdf, id=428, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img7.pdf Graphic file (type pdf)
 <use ./imgs/img7.pdf>
-Package luatex.def Info: ./imgs/img7.pdf  used on input line 2178. on input line
- 2178.
+Package luatex.def Info: ./imgs/img7.pdf  used on input line 2184. on input line
+ 2184.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2178.
+2184.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2178--2180
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2184--2186
  [] 
  []
 
@@ -2187,18 +2187,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2178--2180
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[119<./imgs/img7.pdf>] [120]
+[117<./imgs/img7.pdf>] [118]
 warning  (file ./imgs/img8.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img8.pdf, id=448, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img8.pdf, id=442, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img8.pdf Graphic file (type pdf)
 <use ./imgs/img8.pdf>
-Package luatex.def Info: ./imgs/img8.pdf  used on input line 2199. on input line
- 2199.
+Package luatex.def Info: ./imgs/img8.pdf  used on input line 2205. on input line
+ 2205.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2199.
+2205.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2199--2201
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2205--2207
  [] 
  []
 
@@ -2206,18 +2206,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2199--2201
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[121<./imgs/img8.pdf>] [122]
+[119<./imgs/img8.pdf>] [120]
 warning  (file ./imgs/img9.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img9.pdf, id=462, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img9.pdf, id=455, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img9.pdf Graphic file (type pdf)
 <use ./imgs/img9.pdf>
-Package luatex.def Info: ./imgs/img9.pdf  used on input line 2220. on input line
- 2220.
+Package luatex.def Info: ./imgs/img9.pdf  used on input line 2226. on input line
+ 2226.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2220.
+2226.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2220--2222
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2226--2228
  [] 
  []
 
@@ -2225,18 +2225,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2220--2222
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[123<./imgs/img9.pdf>] [124]
+[121<./imgs/img9.pdf>] [122]
 warning  (file ./imgs/img10.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img10.pdf, id=475, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img10.pdf, id=469, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img10.pdf Graphic file (type pdf)
 <use ./imgs/img10.pdf>
-Package luatex.def Info: ./imgs/img10.pdf  used on input line 2241. on input lin
-e 2241.
+Package luatex.def Info: ./imgs/img10.pdf  used on input line 2247. on input lin
+e 2247.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2241.
+2247.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2241--2243
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2247--2249
  [] 
  []
 
@@ -2244,18 +2244,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2241--2243
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[125<./imgs/img10.pdf>] [126]
+[123<./imgs/img10.pdf>] [124]
 warning  (file ./imgs/img11.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img11.pdf, id=489, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img11.pdf, id=482, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img11.pdf Graphic file (type pdf)
 <use ./imgs/img11.pdf>
-Package luatex.def Info: ./imgs/img11.pdf  used on input line 2262. on input lin
-e 2262.
+Package luatex.def Info: ./imgs/img11.pdf  used on input line 2268. on input lin
+e 2268.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2262.
+2268.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2262--2264
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2268--2270
  [] 
  []
 
@@ -2263,18 +2263,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2262--2264
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[127<./imgs/img11.pdf>] [128]
+[125<./imgs/img11.pdf>] [126]
 warning  (file ./imgs/img12.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img12.pdf, id=502, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img12.pdf, id=496, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img12.pdf Graphic file (type pdf)
 <use ./imgs/img12.pdf>
-Package luatex.def Info: ./imgs/img12.pdf  used on input line 2283. on input lin
-e 2283.
+Package luatex.def Info: ./imgs/img12.pdf  used on input line 2289. on input lin
+e 2289.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2283.
+2289.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2283--2285
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2289--2291
  [] 
  []
 
@@ -2282,18 +2282,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2283--2285
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[129<./imgs/img12.pdf>] [130]
+[127<./imgs/img12.pdf>] [128]
 warning  (file ./imgs/img13.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img13.pdf, id=515, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img13.pdf, id=509, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img13.pdf Graphic file (type pdf)
 <use ./imgs/img13.pdf>
-Package luatex.def Info: ./imgs/img13.pdf  used on input line 2304. on input lin
-e 2304.
+Package luatex.def Info: ./imgs/img13.pdf  used on input line 2310. on input lin
+e 2310.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2304.
+2310.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2304--2306
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2310--2312
  [] 
  []
 
@@ -2301,18 +2301,18 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2304--2306
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[131<./imgs/img13.pdf>] [132]
+[129<./imgs/img13.pdf>] [130]
 warning  (file ./imgs/img14.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img14.pdf, id=537, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img14.pdf, id=530, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img14.pdf Graphic file (type pdf)
 <use ./imgs/img14.pdf>
-Package luatex.def Info: ./imgs/img14.pdf  used on input line 2325. on input lin
-e 2325.
+Package luatex.def Info: ./imgs/img14.pdf  used on input line 2331. on input lin
+e 2331.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-2325.
+2331.
 
-Overfull \hbox (31.81192pt too wide) in paragraph at lines 2325--2327
+Overfull \hbox (31.81192pt too wide) in paragraph at lines 2331--2333
  [] 
  []
 
@@ -2320,7 +2320,7 @@ Overfull \hbox (31.81192pt too wide) in paragraph at lines 2325--2327
 Overfull \vbox (52.70221pt too high) has occurred while \output is active []
 
 
-[133<./imgs/img14.pdf>] 
+[131<./imgs/img14.pdf>] 
 AED: lastpage setting LastPage
 (./LIVRO.aux (./INPUTS.aux))
 
@@ -2334,9 +2334,10 @@ Here is how much of LuaTeX's memory you used:
  2248 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 64 glue, 1 penalty, 272 attribute, 194 glue_spec, 6
 8 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:2,2:782,3:97,4:55,5:356,6:3762,7:1339,8:39,9:217,10:23,11:553
+   avail lists: 1:2,2:817,3:106,4:55,5:365,6:3762,7:1339,8:39,9:219,10:23,11:553
+
  28079 multiletter control sequences out of 65536+600000
- 112 fonts using 18601863 bytes
+ 112 fonts using 18601959 bytes
  64i,14n,72p,1369b,482s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
 /tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
@@ -2345,10 +2346,10 @@ nts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/o
 pentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/openty
 pe/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (133 pages, 594181 bytes).
+Output written on LIVRO.pdf (131 pages, 593315 bytes).
 
-PDF statistics: 605 PDF objects out of 1000 (max. 8388607)
- 393 compressed objects within 4 object streams
+PDF statistics: 599 PDF objects out of 1000 (max. 8388607)
+ 389 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
