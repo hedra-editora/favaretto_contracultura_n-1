@@ -71,6 +71,13 @@ A. Artaud,
 \textit{Grafia atualizada segundo o Acordo Ortográfico da Língua\\
 Portuguesa de 1990, em vigor no Brasil desde 2009.}\\
 %
+
+\vspace*{1cm}
+
+\textit{Esta coleção foi ilustrada por meio de uma fonte de texto\\
+desenhada por Waldomiro Mugrelise e composta por L. Kröeff.} 
+
+
 \begin{vplace}[30]
 \vfill\textit{Direitos reservados em l\'ingua\\ portuguesa somente para o Brasil}\\\medskip
 %%
@@ -176,13 +183,13 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 } % fim do AtBeginDocument
 
 % Finais -------------------------------------------------------
-%\AtEndDocument{%
+\AtEndDocument{%
   %\publicidade
 %
-%\pagebreak\ifodd\thepage\paginabranca\fi
-%
-%\ifdef{\imagemficha}{\IfFileExists{\imagemficha}{\includegraphics[width=.7\textwidth]{\imagemficha%}\par}}{}
-%
+\pagebreak\ifodd\thepage\paginabranca\fi
+\raggedright
+\includegraphics[width=.4\textwidth]{./logos.jpg}{}
+}%
 %\mbox{}\vfill\small\thispagestyle{empty}
 %\begin{center}
 %\begin{minipage}{.8\textwidth}
