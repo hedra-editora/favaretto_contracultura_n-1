@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1569875488 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1569875496
+["lualatex"] 1569875488 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1570645619
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/cobra-arisca-regular.luc" 1566406441 11988 6a18becc14be5d4ab2d4b49d6cc0feac ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fake-receipt.luc" 1566405928 36935 118416beeeb8811ce895c8275724ccb5 ""
@@ -264,7 +264,7 @@
   "logos.jpg" 1569517954 9046 2da6c504d7c26d7d81fac1ba72b41870 ""
   "tipografia.sty" 1566406969 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
+  "LIVRO.log"
   "INPUTS.aux"
   "LIVRO.pdf"
   "LIVRO.aux"
-  "LIVRO.log"
