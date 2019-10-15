@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  30 SEP 2019 17:31
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  15 OCT 2019 14:04
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.227 seconds
+luaotfload | main : initialization completed in 0.233 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2426,25 +2426,40 @@ Package luatex.def Info: ./logos.jpg  used on input line 214. on input line 214.
 
 Package luatex.def Info: Requested size: 95.59854pt x 29.23979pt on input line 2
 14.
+
+warning  (file ./ficha.pdf) (pdf inclusion): PDF inclusion: found PDF version '1
+.7', but at most version '1.5' allowed
+<./ficha.pdf, id=634, pagebox=cropbox, 371.77898pt x 246.69164pt>
+File: ./ficha.pdf Graphic file (type pdf)
+<use ./ficha.pdf>
+Package luatex.def Info: ./ficha.pdf  used on input line 214. on input line 214.
+
+Package luatex.def Info: Requested size: 239.0pt x 158.58977pt on input line 214
+.
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 214--214
+[]| [] 
+ []
+
 [142
 
 
-<./logos.jpg>] (./LIVRO.aux (./INPUTS.aux))
+<./logos.jpg><./ficha.pdf>] (./LIVRO.aux (./INPUTS.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 25887 strings out of 494472
+ 25897 strings out of 494472
  100000,794899 words of node,token memory allocated
- 2232 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 64 glue, 1 penalty, 264 attribute, 196 glue_spec, 6
+ 2222 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 64 glue, 1 penalty, 264 attribute, 194 glue_spec, 6
 6 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:857,3:113,4:53,5:414,6:4165,7:1257,8:43,9:251,10:21,11:550
+   avail lists: 1:2,2:857,3:113,4:53,5:416,6:4164,7:1257,8:43,9:251,10:21,11:550
 
- 28107 multiletter control sequences out of 65536+600000
- 116 fonts using 19106167 bytes
+ 28111 multiletter control sequences out of 65536+600000
+ 116 fonts using 19106215 bytes
  64i,12n,72p,1369b,482s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
 /tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
@@ -2454,10 +2469,10 @@ pentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/openty
 pe/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/pub
 lic/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/la
 txfont/lcirclew.pfb>
-Output written on LIVRO.pdf (142 pages, 749163 bytes).
+Output written on LIVRO.pdf (142 pages, 813629 bytes).
 
-PDF statistics: 694 PDF objects out of 1000 (max. 8388607)
- 444 compressed objects within 5 object streams
+PDF statistics: 714 PDF objects out of 1000 (max. 8388607)
+ 461 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
