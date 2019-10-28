@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1571159061 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571159069
+["lualatex"] 1572291088 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1572291095
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/cobra-arisca-regular.luc" 1566406441 11988 6a18becc14be5d4ab2d4b49d6cc0feac ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fake-receipt.luc" 1566405928 36935 118416beeeb8811ce895c8275724ccb5 ""
@@ -231,15 +231,15 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1571159069 1792 d947601d8893cb73bc2512430afeed15 ""
+  "INPUTS.aux" 1572291095 1792 d947601d8893cb73bc2512430afeed15 ""
   "INPUTS.tex" 1569875353 87 7e715e96feff816f205e9b6ddc515a12 ""
-  "LIVRO.aux" 1571159069 453 86899e4bb4712ebe5533cd970244ab54 ""
+  "LIVRO.aux" 1572291095 453 86899e4bb4712ebe5533cd970244ab54 ""
   "LIVRO.tex" 1569527556 5751 3877ea45afe413df3efc32cc0460801a ""
   "PRETAS.tex" 1567099037 1195 89dd5002fb80281f73c0910b57bf06be ""
   "TEXTO1.tex" 1569527459 135778 197b045eea8f583ffb4eaf545b48c59a ""
   "ficha.pdf" 1571157869 65360 ae042900b0eb47ecc822bcf3c9883393 ""
   "fichatecnica.sty" 1570730549 2349 618eb211f5dba708af99dd3254568c05 ""
-  "fronthedra.tex" 1571159052 7466 c84a3674d99b29a4a4726e34a8b5f199 ""
+  "fronthedra.tex" 1572291086 7095 ddb9fe1c7c58e2e39652ad119ff7ab8a ""
   "frontlayout.sty" 1566406969 1731 5f60f1c14f6d545f21dbeb617a33dfa4 ""
   "gitrevisioninfo.sty" 1566501792 35 0af197c0aa797da669c01f7c129d5d63 ""
   "hedraextra.sty" 1566406969 6390 65a9b8588c7612c4e2512564697fa8c1 ""
@@ -266,6 +266,6 @@
   "tipografia.sty" 1566406969 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
   "LIVRO.aux"
-  "LIVRO.pdf"
   "INPUTS.aux"
   "LIVRO.log"
+  "LIVRO.pdf"
