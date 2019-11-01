@@ -361,6 +361,7 @@ INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono10
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
+INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
@@ -387,7 +388,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
-INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
