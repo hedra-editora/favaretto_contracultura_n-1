@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1573070552 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1573070559
+["lualatex"] 1573576517 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1573576525
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/cobra-arisca-regular.luc" 1566406441 11988 6a18becc14be5d4ab2d4b49d6cc0feac ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fake-receipt.luc" 1566405928 36935 118416beeeb8811ce895c8275724ccb5 ""
@@ -231,11 +231,11 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1573070559 1792 d947601d8893cb73bc2512430afeed15 ""
+  "INPUTS.aux" 1573576524 1792 d947601d8893cb73bc2512430afeed15 ""
   "INPUTS.tex" 1569875353 87 7e715e96feff816f205e9b6ddc515a12 ""
-  "LIVRO.aux" 1573070559 453 86899e4bb4712ebe5533cd970244ab54 ""
+  "LIVRO.aux" 1573576524 453 86899e4bb4712ebe5533cd970244ab54 ""
   "LIVRO.tex" 1572628608 5779 f5c4b76a56ed1ff2f5d42f3128d51de1 ""
-  "PRETAS.tex" 1572628475 1029 8e29cf78581b49de49522772d0f3ec6a ""
+  "PRETAS.tex" 1573576512 672 b4e81f7361bda17efceb4ad079de1015 ""
   "TEXTO1.tex" 1572630408 135780 4dcb4c36c525945731f5c20794bc22e9 ""
   "ficha.pdf" 1572630586 78274 b16ed3e27d856fa0df5b6fb05668379c ""
   "fichatecnica.sty" 1570730549 2349 618eb211f5dba708af99dd3254568c05 ""
@@ -266,6 +266,6 @@
   "tipografia.sty" 1566406969 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
   "LIVRO.aux"
-  "LIVRO.pdf"
   "INPUTS.aux"
+  "LIVRO.pdf"
   "LIVRO.log"

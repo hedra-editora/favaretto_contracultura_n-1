@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  6 NOV 2019 17:02
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  12 NOV 2019 13:35
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.226 seconds
+luaotfload | main : initialization completed in 0.224 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1993,7 +1993,7 @@ luaotfload | aux : no font with id 59
 
 LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/it' undefined
 (Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
- 12.
+ 9.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular-LightItalic' (encoding: TU).
@@ -2002,7 +2002,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
 (Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
- 12.
+ 9.
 
 \g__fontspec_family_FormularLight-Italic_int=\count368
 .................................................
@@ -2039,7 +2039,7 @@ luaotfload | aux : no font with id 59
 
 LaTeX Font Warning: Font shape `TU/FormularLight-Italic(0)/m/it' undefined
 (Font)              using `TU/FormularLight-Italic(0)/m/n' instead on input line
- 12.
+ 9.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FormularLight-Italic' (encoding: TU).
@@ -2462,15 +2462,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25938 strings out of 494472
+ 25930 strings out of 494472
  100000,794899 words of node,token memory allocated
  2222 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 64 glue, 1 penalty, 264 attribute, 194 glue_spec, 6
 6 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:857,3:113,4:53,5:416,6:4164,7:1257,8:43,9:251,10:21,11:550
+   avail lists: 1:2,2:857,3:113,4:53,5:416,6:4165,7:1257,8:43,9:251,10:21,11:550
 
  28118 multiletter control sequences out of 65536+600000
- 119 fonts using 19581135 bytes
+ 119 fonts using 19579951 bytes
  61i,12n,70p,1369b,482s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
 /tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
@@ -2481,7 +2481,7 @@ ype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/p
 ublic/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/
 lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfo
 nt/lcirclew.pfb>
-Output written on LIVRO.pdf (142 pages, 822938 bytes).
+Output written on LIVRO.pdf (142 pages, 822669 bytes).
 
 PDF statistics: 726 PDF objects out of 1000 (max. 8388607)
  468 compressed objects within 5 object streams
